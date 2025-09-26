@@ -12,4 +12,5 @@
 2. Открыть решение `ECommerceApp.sln` в Visual Studio.
 3. Выполнить тесты:
   
-![Тесты](C:\Users\Пользователь\OneDrive\Рабочий стол\Тесты.png)
+
+![Tests]("C:\Users\Пользователь\OneDrive\Рабочий стол\Тесты.png")
