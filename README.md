@@ -12,4 +12,4 @@
 2. Открыть решение `ECommerceApp.sln` в Visual Studio.
 3. Выполнить тесты:
   
-![Тесты](<img width="895" height="512" alt="Снимок экрана 2025-09-26 134844" src="https://github.com/user-attachments/assets/57b9e12f-0586-4560-85b6-f7543e123e6c" />)
+![Тесты](<img width="872" height="500" alt="Тесты" src="https://github.com/user-attachments/assets/92799e94-7326-494e-b2eb-f767f9563679" />)
