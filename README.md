@@ -12,6 +12,4 @@
 2. Открыть решение `ECommerceApp.sln` в Visual Studio.
 3. Выполнить тесты:
    ```bash
-   <img width="895" height="512" alt="image" src="https://github.com/user-attachments/assets/0c1ee35e-ff89-403c-aa1e-207e6af4a1db" />
-
-   dotnet test
+   ![dotnet test](<img width="895" height="512" alt="image" src="https://github.com/user-attachments/assets/0c1ee35e-ff89-403c-aa1e-207e6af4a1db" />)
