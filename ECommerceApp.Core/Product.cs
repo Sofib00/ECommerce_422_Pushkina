@@ -18,4 +18,3 @@ public class Product
         return $"{Id}: {Name} - {Price}₽";
     }
 }
-}
