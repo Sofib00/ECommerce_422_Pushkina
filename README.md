@@ -12,4 +12,4 @@
 2. Открыть решение `ECommerceApp.sln` в Visual Studio.
 3. Выполнить тесты:
   
-![Тесты](<img width="872" height="500" alt="Тесты" src="https://github.com/user-attachments/assets/92799e94-7326-494e-b2eb-f767f9563679" />)
+![Тесты](C:\Users\Пользователь\OneDrive\Рабочий стол\Тесты.png)
